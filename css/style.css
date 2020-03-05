@@ -1,0 +1,12 @@
+.cover {
+    float:left;
+    width: 33%;
+    border: 5px;
+    border-radius:10px;
+}
+.info {
+    float:right;
+    width:50%;
+    margin:50px;
+    font-size:25px;
+}
